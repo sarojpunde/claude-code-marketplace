@@ -6,6 +6,21 @@
   },
   "marketplaces": [
     {
+      "id": "shopify-development-toolkit",
+      "name": "Shopify Development Toolkit",
+      "description": "Complete Shopify development toolkit with 16 specialized agents for theme development, app development, and Polaris UI. Includes comprehensive skills and battle-tested patterns.",
+      "owner": {
+        "name": "Saroj Punde",
+        "url": "https://github.com/sarojpunde"
+      },
+      "repository": "https://github.com/sarojpunde/shopify-dev-toolkit-claude-plugins",
+      "manifestUrl": "https://raw.githubusercontent.com/sarojpunde/shopify-dev-toolkit-claude-plugins/master/.claude-plugin/marketplace.json",
+      "tags": ["shopify", "theme", "app", "polaris", "liquid", "development", "graphql", "react"],
+      "homepage": "https://github.com/sarojpunde/shopify-dev-toolkit-claude-plugins",
+      "verified": false,
+      "addedAt": "2025-11-24"
+    },
+    {
       "id": "1broseidon/marketplace",
       "name": "1broseidon/marketplace",
       "description": "Curated collection of Claude Code plugins for fullstack development teams",
